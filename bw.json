@@ -1,4 +1,4 @@
 {
     "BUNDLE": "http://103.153.73.111/baowin/bundle/setting.json",
-    "API": "http://103.153.73.111:2083/api"
+    "URL_API": "http://103.153.73.111:2083/api", "RELEASE":1
 }
