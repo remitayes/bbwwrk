@@ -1,5 +1,5 @@
 {
     "BUNDLE": "http://103.153.73.111/baowin/bundle/setting.json",    
     "PATH": "http://103.153.73.111/baowin/bundle/",
-    "URL_API": "http://103.153.73.111:2083/api", "RELEASE":1
+    "URL_API": "https://gameprod.xyz:2083/api", "RELEASE":1
 }
