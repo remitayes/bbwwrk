@@ -1,5 +1,5 @@
 {
-    "BUNDLE": "http://103.153.73.111/baowin/bundle/setting.json",    
-    "PATH": "http://103.153.73.111/baowin/bundle/",
+    "BUNDLE": "https://gameprod.xyz/file/bundle/setting.json",    
+    "PATH": "https://gameprod.xyz/file/bundle/",
     "URL_API": "https://gameprod.xyz/api", "RELEASE":1
 }
