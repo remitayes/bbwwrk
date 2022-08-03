@@ -1,6 +1,6 @@
 {
     "BUNDLE": "https://gameprod.xyz/file/bundle/setting.json",    
     "PATH": "https://gameprod.xyz/file/bundle/",
-    "BTGAMES": "https://gameprod.xyz/file/bundle/btgames/setting.json",   
+    "BTGAMES": "https://gameprod.xyz/file/bundle/btgames/manifest.json",   
     "URL_API": "https://gameprod.xyz/api", "RELEASE":1
 }
